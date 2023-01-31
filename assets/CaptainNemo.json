@@ -1,0 +1,1964 @@
+{
+	"textures": [
+		{
+			"image": "CaptainNemo-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1932,
+				"h": 1723
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "CaptainNemoAttack2Hand_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 252,
+						"w": 323,
+						"h": 419
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 323,
+						"h": 419
+					}
+				},
+				{
+					"filename": "CaptainNemoAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 245,
+						"w": 398,
+						"h": 424
+					},
+					"frame": {
+						"x": 326,
+						"y": 1,
+						"w": 398,
+						"h": 424
+					}
+				},
+				{
+					"filename": "CaptainNemoDie_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 314,
+						"y": 225,
+						"w": 343,
+						"h": 425
+					},
+					"frame": {
+						"x": 726,
+						"y": 1,
+						"w": 343,
+						"h": 425
+					}
+				},
+				{
+					"filename": "CaptainNemoDie_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 243,
+						"w": 417,
+						"h": 410
+					},
+					"frame": {
+						"x": 1071,
+						"y": 1,
+						"w": 417,
+						"h": 410
+					}
+				},
+				{
+					"filename": "CaptainNemoDie_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 362,
+						"w": 441,
+						"h": 300
+					},
+					"frame": {
+						"x": 1490,
+						"y": 1,
+						"w": 441,
+						"h": 300
+					}
+				},
+				{
+					"filename": "CaptainNemoDie_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 474,
+						"w": 454,
+						"h": 245
+					},
+					"frame": {
+						"x": 1,
+						"y": 428,
+						"w": 454,
+						"h": 245
+					}
+				},
+				{
+					"filename": "CaptainNemoDie_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 93,
+						"y": 478,
+						"w": 458,
+						"h": 232
+					},
+					"frame": {
+						"x": 457,
+						"y": 428,
+						"w": 458,
+						"h": 232
+					}
+				},
+				{
+					"filename": "CaptainNemoHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 196,
+						"y": 225,
+						"w": 403,
+						"h": 444
+					},
+					"frame": {
+						"x": 917,
+						"y": 428,
+						"w": 403,
+						"h": 444
+					}
+				},
+				{
+					"filename": "CaptainNemoKick2_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 209,
+						"y": 238,
+						"w": 333,
+						"h": 431
+					},
+					"frame": {
+						"x": 1322,
+						"y": 428,
+						"w": 333,
+						"h": 431
+					}
+				},
+				{
+					"filename": "CaptainNemoKick2_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 230,
+						"w": 239,
+						"h": 439
+					},
+					"frame": {
+						"x": 1657,
+						"y": 428,
+						"w": 239,
+						"h": 439
+					}
+				},
+				{
+					"filename": "CaptainNemoKick2_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 188,
+						"y": 225,
+						"w": 444,
+						"h": 441
+					},
+					"frame": {
+						"x": 1,
+						"y": 874,
+						"w": 444,
+						"h": 441
+					}
+				},
+				{
+					"filename": "CaptainNemoKick_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 229,
+						"w": 265,
+						"h": 440
+					},
+					"frame": {
+						"x": 447,
+						"y": 874,
+						"w": 265,
+						"h": 440
+					}
+				},
+				{
+					"filename": "CaptainNemoKick_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 203,
+						"y": 224,
+						"w": 406,
+						"h": 438
+					},
+					"frame": {
+						"x": 714,
+						"y": 874,
+						"w": 406,
+						"h": 438
+					}
+				},
+				{
+					"filename": "CaptainNemoOffHand_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 218,
+						"y": 255,
+						"w": 380,
+						"h": 416
+					},
+					"frame": {
+						"x": 1122,
+						"y": 874,
+						"w": 380,
+						"h": 416
+					}
+				},
+				{
+					"filename": "CaptainNemoOffHand_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 227,
+						"y": 252,
+						"w": 420,
+						"h": 442
+					},
+					"frame": {
+						"x": 1504,
+						"y": 874,
+						"w": 420,
+						"h": 442
+					}
+				},
+				{
+					"filename": "CaptainNemoStab_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 159,
+						"y": 264,
+						"w": 343,
+						"h": 404
+					},
+					"frame": {
+						"x": 1,
+						"y": 1318,
+						"w": 343,
+						"h": 404
+					}
+				},
+				{
+					"filename": "CaptainNemoStab_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 279,
+						"w": 364,
+						"h": 389
+					},
+					"frame": {
+						"x": 346,
+						"y": 1318,
+						"w": 364,
+						"h": 389
+					}
+				},
+				{
+					"filename": "CaptainNemoStab_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 211,
+						"y": 299,
+						"w": 509,
+						"h": 368
+					},
+					"frame": {
+						"x": 712,
+						"y": 1318,
+						"w": 509,
+						"h": 368
+					}
+				},
+				{
+					"filename": "CaptainNemoStab_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 221,
+						"y": 287,
+						"w": 499,
+						"h": 379
+					},
+					"frame": {
+						"x": 1223,
+						"y": 1318,
+						"w": 499,
+						"h": 379
+					}
+				}
+			]
+		},
+		{
+			"image": "CaptainNemo-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1910,
+				"h": 1796
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "CaptainNemoAim_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 340,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 340,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 340,
+						"h": 447
+					},
+					"frame": {
+						"x": 343,
+						"y": 1,
+						"w": 340,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 340,
+						"h": 447
+					},
+					"frame": {
+						"x": 343,
+						"y": 1,
+						"w": 340,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 340,
+						"h": 447
+					},
+					"frame": {
+						"x": 343,
+						"y": 1,
+						"w": 340,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 341,
+						"h": 447
+					},
+					"frame": {
+						"x": 685,
+						"y": 1,
+						"w": 341,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 341,
+						"h": 447
+					},
+					"frame": {
+						"x": 685,
+						"y": 1,
+						"w": 341,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 341,
+						"h": 447
+					},
+					"frame": {
+						"x": 685,
+						"y": 1,
+						"w": 341,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 341,
+						"h": 447
+					},
+					"frame": {
+						"x": 1028,
+						"y": 1,
+						"w": 341,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 341,
+						"h": 447
+					},
+					"frame": {
+						"x": 1028,
+						"y": 1,
+						"w": 341,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 341,
+						"h": 447
+					},
+					"frame": {
+						"x": 1028,
+						"y": 1,
+						"w": 341,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 341,
+						"h": 447
+					},
+					"frame": {
+						"x": 1028,
+						"y": 1,
+						"w": 341,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 342,
+						"h": 447
+					},
+					"frame": {
+						"x": 1371,
+						"y": 1,
+						"w": 342,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 342,
+						"h": 447
+					},
+					"frame": {
+						"x": 1371,
+						"y": 1,
+						"w": 342,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 342,
+						"h": 447
+					},
+					"frame": {
+						"x": 1371,
+						"y": 1,
+						"w": 342,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 342,
+						"h": 447
+					},
+					"frame": {
+						"x": 1371,
+						"y": 1,
+						"w": 342,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 343,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 450,
+						"w": 343,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 343,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 450,
+						"w": 343,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 343,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 450,
+						"w": 343,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 343,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 450,
+						"w": 343,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 344,
+						"h": 447
+					},
+					"frame": {
+						"x": 346,
+						"y": 450,
+						"w": 344,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 344,
+						"h": 447
+					},
+					"frame": {
+						"x": 346,
+						"y": 450,
+						"w": 344,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 344,
+						"h": 447
+					},
+					"frame": {
+						"x": 346,
+						"y": 450,
+						"w": 344,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 344,
+						"h": 447
+					},
+					"frame": {
+						"x": 346,
+						"y": 450,
+						"w": 344,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 345,
+						"h": 447
+					},
+					"frame": {
+						"x": 692,
+						"y": 450,
+						"w": 345,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 345,
+						"h": 447
+					},
+					"frame": {
+						"x": 692,
+						"y": 450,
+						"w": 345,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 345,
+						"h": 447
+					},
+					"frame": {
+						"x": 692,
+						"y": 450,
+						"w": 345,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 345,
+						"h": 447
+					},
+					"frame": {
+						"x": 692,
+						"y": 450,
+						"w": 345,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 346,
+						"h": 447
+					},
+					"frame": {
+						"x": 1039,
+						"y": 450,
+						"w": 346,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 346,
+						"h": 447
+					},
+					"frame": {
+						"x": 1039,
+						"y": 450,
+						"w": 346,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 346,
+						"h": 447
+					},
+					"frame": {
+						"x": 1039,
+						"y": 450,
+						"w": 346,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 346,
+						"h": 447
+					},
+					"frame": {
+						"x": 1039,
+						"y": 450,
+						"w": 346,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 346,
+						"h": 447
+					},
+					"frame": {
+						"x": 1387,
+						"y": 450,
+						"w": 346,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 346,
+						"h": 447
+					},
+					"frame": {
+						"x": 1387,
+						"y": 450,
+						"w": 346,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 346,
+						"h": 447
+					},
+					"frame": {
+						"x": 1387,
+						"y": 450,
+						"w": 346,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 346,
+						"h": 447
+					},
+					"frame": {
+						"x": 1387,
+						"y": 450,
+						"w": 346,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoAim_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 346,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 899,
+						"w": 346,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 346,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 899,
+						"w": 346,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 265,
+						"y": 227,
+						"w": 325,
+						"h": 447
+					},
+					"frame": {
+						"x": 349,
+						"y": 899,
+						"w": 325,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 208,
+						"y": 220,
+						"w": 409,
+						"h": 447
+					},
+					"frame": {
+						"x": 676,
+						"y": 899,
+						"w": 409,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 208,
+						"y": 220,
+						"w": 409,
+						"h": 447
+					},
+					"frame": {
+						"x": 1087,
+						"y": 899,
+						"w": 409,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 208,
+						"y": 220,
+						"w": 409,
+						"h": 447
+					},
+					"frame": {
+						"x": 1087,
+						"y": 899,
+						"w": 409,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 220,
+						"w": 411,
+						"h": 447
+					},
+					"frame": {
+						"x": 1498,
+						"y": 899,
+						"w": 411,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 205,
+						"y": 220,
+						"w": 414,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1348,
+						"w": 414,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 205,
+						"y": 220,
+						"w": 414,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1348,
+						"w": 414,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 220,
+						"w": 415,
+						"h": 447
+					},
+					"frame": {
+						"x": 417,
+						"y": 1348,
+						"w": 415,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 220,
+						"w": 415,
+						"h": 447
+					},
+					"frame": {
+						"x": 417,
+						"y": 1348,
+						"w": 415,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 220,
+						"w": 418,
+						"h": 447
+					},
+					"frame": {
+						"x": 834,
+						"y": 1348,
+						"w": 418,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 220,
+						"w": 421,
+						"h": 447
+					},
+					"frame": {
+						"x": 1254,
+						"y": 1348,
+						"w": 421,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 220,
+						"w": 421,
+						"h": 447
+					},
+					"frame": {
+						"x": 1254,
+						"y": 1348,
+						"w": 421,
+						"h": 447
+					}
+				}
+			]
+		},
+		{
+			"image": "CaptainNemo-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1872,
+				"h": 1903
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "CaptainNemoIdle_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 220,
+						"w": 418,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 418,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 220,
+						"w": 411,
+						"h": 447
+					},
+					"frame": {
+						"x": 421,
+						"y": 1,
+						"w": 411,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 352,
+						"h": 447
+					},
+					"frame": {
+						"x": 834,
+						"y": 1,
+						"w": 352,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 340,
+						"h": 447
+					},
+					"frame": {
+						"x": 1188,
+						"y": 1,
+						"w": 340,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoShoot_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 220,
+						"w": 341,
+						"h": 447
+					},
+					"frame": {
+						"x": 1530,
+						"y": 1,
+						"w": 341,
+						"h": 447
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 198,
+						"y": 219,
+						"w": 424,
+						"h": 448
+					},
+					"frame": {
+						"x": 1,
+						"y": 450,
+						"w": 424,
+						"h": 448
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 198,
+						"y": 219,
+						"w": 424,
+						"h": 448
+					},
+					"frame": {
+						"x": 1,
+						"y": 450,
+						"w": 424,
+						"h": 448
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 197,
+						"y": 219,
+						"w": 426,
+						"h": 448
+					},
+					"frame": {
+						"x": 427,
+						"y": 450,
+						"w": 426,
+						"h": 448
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 197,
+						"y": 219,
+						"w": 426,
+						"h": 448
+					},
+					"frame": {
+						"x": 427,
+						"y": 450,
+						"w": 426,
+						"h": 448
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 196,
+						"y": 219,
+						"w": 427,
+						"h": 448
+					},
+					"frame": {
+						"x": 855,
+						"y": 450,
+						"w": 427,
+						"h": 448
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 196,
+						"y": 219,
+						"w": 427,
+						"h": 448
+					},
+					"frame": {
+						"x": 855,
+						"y": 450,
+						"w": 427,
+						"h": 448
+					}
+				},
+				{
+					"filename": "CaptainNemoIdle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 195,
+						"y": 219,
+						"w": 428,
+						"h": 448
+					},
+					"frame": {
+						"x": 1284,
+						"y": 450,
+						"w": 428,
+						"h": 448
+					}
+				},
+				{
+					"filename": "CaptainNemoDie_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 176,
+						"y": 148,
+						"w": 380,
+						"h": 451
+					},
+					"frame": {
+						"x": 1,
+						"y": 900,
+						"w": 380,
+						"h": 451
+					}
+				},
+				{
+					"filename": "CaptainNemoAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 201,
+						"y": 238,
+						"w": 435,
+						"h": 458
+					},
+					"frame": {
+						"x": 383,
+						"y": 900,
+						"w": 435,
+						"h": 458
+					}
+				},
+				{
+					"filename": "CaptainNemoKick_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 205,
+						"w": 259,
+						"h": 459
+					},
+					"frame": {
+						"x": 820,
+						"y": 900,
+						"w": 259,
+						"h": 459
+					}
+				},
+				{
+					"filename": "CaptainNemoAttack2Hand_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 227,
+						"w": 417,
+						"h": 467
+					},
+					"frame": {
+						"x": 1081,
+						"y": 900,
+						"w": 417,
+						"h": 467
+					}
+				},
+				{
+					"filename": "CaptainNemoAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 208,
+						"y": 198,
+						"w": 274,
+						"h": 469
+					},
+					"frame": {
+						"x": 1500,
+						"y": 900,
+						"w": 274,
+						"h": 469
+					}
+				},
+				{
+					"filename": "CaptainNemoDie_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 264,
+						"y": 169,
+						"w": 301,
+						"h": 469
+					},
+					"frame": {
+						"x": 1,
+						"y": 1371,
+						"w": 301,
+						"h": 469
+					}
+				},
+				{
+					"filename": "CaptainNemoOffHand_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 168,
+						"w": 340,
+						"h": 500
+					},
+					"frame": {
+						"x": 304,
+						"y": 1371,
+						"w": 340,
+						"h": 500
+					}
+				},
+				{
+					"filename": "CaptainNemoAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 224,
+						"y": 182,
+						"w": 412,
+						"h": 518
+					},
+					"frame": {
+						"x": 646,
+						"y": 1371,
+						"w": 412,
+						"h": 518
+					}
+				},
+				{
+					"filename": "CaptainNemoAttack2Hand_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 148,
+						"w": 307,
+						"h": 520
+					},
+					"frame": {
+						"x": 1060,
+						"y": 1371,
+						"w": 307,
+						"h": 520
+					}
+				},
+				{
+					"filename": "CaptainNemoOffHand_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 208,
+						"y": 167,
+						"w": 448,
+						"h": 531
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1371,
+						"w": 448,
+						"h": 531
+					}
+				}
+			]
+		},
+		{
+			"image": "CaptainNemo-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 496,
+				"h": 545
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "CaptainNemoAttack2Hand_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 208,
+						"y": 155,
+						"w": 494,
+						"h": 543
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 494,
+						"h": 543
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a10c16512dd8b9e6713aa1272069854d:05c29ce19ec8f6a46790825b0b6b5ecb:549f888b6d2b6e269e3e7a0f82fd5ecf$"
+	}
+}

@@ -1,0 +1,892 @@
+{
+	"textures": [
+		{
+			"image": "Charity-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2005,
+				"h": 1587
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "CharityHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 241,
+						"w": 164,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 164,
+						"h": 431
+					}
+				},
+				{
+					"filename": "CharityIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 167,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 346,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 346,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 525,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 704,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 704,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 883,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 883,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 1062,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 1241,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 1241,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 1420,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 1420,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 1599,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 1599,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 1778,
+						"y": 1,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 238,
+						"w": 177,
+						"h": 433
+					},
+					"frame": {
+						"x": 1,
+						"y": 436,
+						"w": 177,
+						"h": 433
+					}
+				},
+				{
+					"filename": "CharityIdle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 279,
+						"y": 237,
+						"w": 178,
+						"h": 434
+					},
+					"frame": {
+						"x": 180,
+						"y": 436,
+						"w": 178,
+						"h": 434
+					}
+				},
+				{
+					"filename": "CharityIdle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 279,
+						"y": 237,
+						"w": 178,
+						"h": 434
+					},
+					"frame": {
+						"x": 180,
+						"y": 436,
+						"w": 178,
+						"h": 434
+					}
+				},
+				{
+					"filename": "CharityIdle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 279,
+						"y": 237,
+						"w": 178,
+						"h": 434
+					},
+					"frame": {
+						"x": 360,
+						"y": 436,
+						"w": 178,
+						"h": 434
+					}
+				},
+				{
+					"filename": "CharityDie_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 311,
+						"y": 241,
+						"w": 181,
+						"h": 409
+					},
+					"frame": {
+						"x": 540,
+						"y": 436,
+						"w": 181,
+						"h": 409
+					}
+				},
+				{
+					"filename": "CharityCast_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 277,
+						"y": 195,
+						"w": 191,
+						"h": 478
+					},
+					"frame": {
+						"x": 723,
+						"y": 436,
+						"w": 191,
+						"h": 478
+					}
+				},
+				{
+					"filename": "CharityCast_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 244,
+						"w": 192,
+						"h": 429
+					},
+					"frame": {
+						"x": 916,
+						"y": 436,
+						"w": 192,
+						"h": 429
+					}
+				},
+				{
+					"filename": "CharityKick_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 298,
+						"y": 247,
+						"w": 199,
+						"h": 423
+					},
+					"frame": {
+						"x": 1110,
+						"y": 436,
+						"w": 199,
+						"h": 423
+					}
+				},
+				{
+					"filename": "CharityCast_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 247,
+						"w": 204,
+						"h": 426
+					},
+					"frame": {
+						"x": 1311,
+						"y": 436,
+						"w": 204,
+						"h": 426
+					}
+				},
+				{
+					"filename": "CharityHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 270,
+						"y": 243,
+						"w": 204,
+						"h": 430
+					},
+					"frame": {
+						"x": 1517,
+						"y": 436,
+						"w": 204,
+						"h": 430
+					}
+				},
+				{
+					"filename": "CharityPunch3_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 267,
+						"y": 245,
+						"w": 209,
+						"h": 429
+					},
+					"frame": {
+						"x": 1723,
+						"y": 436,
+						"w": 209,
+						"h": 429
+					}
+				},
+				{
+					"filename": "CharityPunch3_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 242,
+						"y": 255,
+						"w": 215,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 916,
+						"w": 215,
+						"h": 420
+					}
+				},
+				{
+					"filename": "CharityPunch_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 242,
+						"y": 255,
+						"w": 220,
+						"h": 420
+					},
+					"frame": {
+						"x": 218,
+						"y": 916,
+						"w": 220,
+						"h": 420
+					}
+				},
+				{
+					"filename": "CharityKick_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 240,
+						"y": 255,
+						"w": 232,
+						"h": 413
+					},
+					"frame": {
+						"x": 440,
+						"y": 916,
+						"w": 232,
+						"h": 413
+					}
+				},
+				{
+					"filename": "CharityDie_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 272,
+						"y": 271,
+						"w": 290,
+						"h": 360
+					},
+					"frame": {
+						"x": 674,
+						"y": 916,
+						"w": 290,
+						"h": 360
+					}
+				},
+				{
+					"filename": "CharityPunch_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 256,
+						"w": 308,
+						"h": 417
+					},
+					"frame": {
+						"x": 966,
+						"y": 916,
+						"w": 308,
+						"h": 417
+					}
+				},
+				{
+					"filename": "CharityKick_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 274,
+						"y": 242,
+						"w": 358,
+						"h": 425
+					},
+					"frame": {
+						"x": 1276,
+						"y": 916,
+						"w": 358,
+						"h": 425
+					}
+				},
+				{
+					"filename": "CharityDie_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 184,
+						"y": 317,
+						"w": 368,
+						"h": 270
+					},
+					"frame": {
+						"x": 1636,
+						"y": 916,
+						"w": 368,
+						"h": 270
+					}
+				},
+				{
+					"filename": "CharityDie_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 418,
+						"w": 400,
+						"h": 243
+					},
+					"frame": {
+						"x": 1,
+						"y": 1343,
+						"w": 400,
+						"h": 243
+					}
+				},
+				{
+					"filename": "CharityDie_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 486,
+						"w": 423,
+						"h": 183
+					},
+					"frame": {
+						"x": 403,
+						"y": 1343,
+						"w": 423,
+						"h": 183
+					}
+				},
+				{
+					"filename": "CharityDie_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 564,
+						"w": 435,
+						"h": 118
+					},
+					"frame": {
+						"x": 828,
+						"y": 1343,
+						"w": 435,
+						"h": 118
+					}
+				},
+				{
+					"filename": "CharityDie_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 567,
+						"w": 439,
+						"h": 111
+					},
+					"frame": {
+						"x": 1265,
+						"y": 1343,
+						"w": 439,
+						"h": 111
+					}
+				}
+			]
+		},
+		{
+			"image": "Charity-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 192,
+				"h": 971
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "CharityCast_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 188,
+						"w": 190,
+						"h": 485
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 190,
+						"h": 485
+					}
+				},
+				{
+					"filename": "CharityCast_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 279,
+						"y": 191,
+						"w": 189,
+						"h": 482
+					},
+					"frame": {
+						"x": 1,
+						"y": 488,
+						"w": 189,
+						"h": 482
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:076944379a770aafd4c08d86a6bb5612:edf621c8019a1e74f68759b0a1f3bade:aaeef180ee7f3182433dff7ccc7c9def$"
+	}
+}

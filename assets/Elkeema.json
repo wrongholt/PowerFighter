@@ -1,0 +1,2163 @@
+{
+	"textures": [
+		{
+			"image": "Elkeema-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2040,
+				"h": 1948
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "elkeemaDie_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 574,
+						"w": 437,
+						"h": 146
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 437,
+						"h": 146
+					}
+				},
+				{
+					"filename": "elkeemaDie_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 569,
+						"w": 433,
+						"h": 151
+					},
+					"frame": {
+						"x": 440,
+						"y": 1,
+						"w": 433,
+						"h": 151
+					}
+				},
+				{
+					"filename": "elkeemaDie_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 490,
+						"w": 421,
+						"h": 184
+					},
+					"frame": {
+						"x": 875,
+						"y": 1,
+						"w": 421,
+						"h": 184
+					}
+				},
+				{
+					"filename": "elkeemaDie_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 139,
+						"y": 419,
+						"w": 396,
+						"h": 242
+					},
+					"frame": {
+						"x": 1298,
+						"y": 1,
+						"w": 396,
+						"h": 242
+					}
+				},
+				{
+					"filename": "elkeemaDie_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 302,
+						"w": 364,
+						"h": 300
+					},
+					"frame": {
+						"x": 1,
+						"y": 245,
+						"w": 364,
+						"h": 300
+					}
+				},
+				{
+					"filename": "elkeemaDie_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 266,
+						"y": 279,
+						"w": 347,
+						"h": 361
+					},
+					"frame": {
+						"x": 367,
+						"y": 245,
+						"w": 347,
+						"h": 361
+					}
+				},
+				{
+					"filename": "elkeemaDie_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 250,
+						"w": 261,
+						"h": 405
+					},
+					"frame": {
+						"x": 716,
+						"y": 245,
+						"w": 261,
+						"h": 405
+					}
+				},
+				{
+					"filename": "elkeemaAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 229,
+						"y": 269,
+						"w": 333,
+						"h": 406
+					},
+					"frame": {
+						"x": 979,
+						"y": 245,
+						"w": 333,
+						"h": 406
+					}
+				},
+				{
+					"filename": "elkeemaKick_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 282,
+						"y": 249,
+						"w": 326,
+						"h": 418
+					},
+					"frame": {
+						"x": 1314,
+						"y": 245,
+						"w": 326,
+						"h": 418
+					}
+				},
+				{
+					"filename": "elkeemaKick_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 292,
+						"y": 255,
+						"w": 277,
+						"h": 420
+					},
+					"frame": {
+						"x": 1642,
+						"y": 245,
+						"w": 277,
+						"h": 420
+					}
+				},
+				{
+					"filename": "elkeemaHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 236,
+						"y": 249,
+						"w": 205,
+						"h": 424
+					},
+					"frame": {
+						"x": 1,
+						"y": 667,
+						"w": 205,
+						"h": 424
+					}
+				},
+				{
+					"filename": "elkeemaAim_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 338,
+						"h": 425
+					},
+					"frame": {
+						"x": 208,
+						"y": 667,
+						"w": 338,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaAim_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 338,
+						"h": 425
+					},
+					"frame": {
+						"x": 548,
+						"y": 667,
+						"w": 338,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaAim_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 338,
+						"h": 425
+					},
+					"frame": {
+						"x": 548,
+						"y": 667,
+						"w": 338,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaAim_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 338,
+						"h": 425
+					},
+					"frame": {
+						"x": 888,
+						"y": 667,
+						"w": 338,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaAim_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 338,
+						"h": 425
+					},
+					"frame": {
+						"x": 888,
+						"y": 667,
+						"w": 338,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaAim_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 338,
+						"h": 425
+					},
+					"frame": {
+						"x": 1228,
+						"y": 667,
+						"w": 338,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaAim_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 338,
+						"h": 425
+					},
+					"frame": {
+						"x": 1228,
+						"y": 667,
+						"w": 338,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 251,
+						"w": 309,
+						"h": 425
+					},
+					"frame": {
+						"x": 1568,
+						"y": 667,
+						"w": 309,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaRapid_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 410,
+						"h": 425
+					},
+					"frame": {
+						"x": 1,
+						"y": 1094,
+						"w": 410,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaRapid_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 409,
+						"h": 425
+					},
+					"frame": {
+						"x": 413,
+						"y": 1094,
+						"w": 409,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaRapid_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 337,
+						"h": 425
+					},
+					"frame": {
+						"x": 824,
+						"y": 1094,
+						"w": 337,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaRapid_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 337,
+						"h": 425
+					},
+					"frame": {
+						"x": 824,
+						"y": 1094,
+						"w": 337,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaRapid_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 337,
+						"h": 425
+					},
+					"frame": {
+						"x": 1163,
+						"y": 1094,
+						"w": 337,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaRapid_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 337,
+						"h": 425
+					},
+					"frame": {
+						"x": 1163,
+						"y": 1094,
+						"w": 337,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaRapid_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 247,
+						"w": 337,
+						"h": 425
+					},
+					"frame": {
+						"x": 1502,
+						"y": 1094,
+						"w": 337,
+						"h": 425
+					}
+				},
+				{
+					"filename": "elkeemaAim_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 1,
+						"y": 1521,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaAim_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 1,
+						"y": 1521,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaAim_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 341,
+						"y": 1521,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaAim_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 681,
+						"y": 1521,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaAim_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 681,
+						"y": 1521,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaAim_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 1021,
+						"y": 1521,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaAim_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 1021,
+						"y": 1521,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaAim_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1521,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaAim_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1521,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaAim_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 1701,
+						"y": 1521,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaAim_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 1701,
+						"y": 1521,
+						"w": 338,
+						"h": 426
+					}
+				}
+			]
+		},
+		{
+			"image": "Elkeema-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2036,
+				"h": 1718
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "elkeemaAim_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaAim_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 338,
+						"h": 426
+					},
+					"frame": {
+						"x": 341,
+						"y": 1,
+						"w": 338,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 681,
+						"y": 1,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 681,
+						"y": 1,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 1020,
+						"y": 1,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 1020,
+						"y": 1,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 1359,
+						"y": 1,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 1359,
+						"y": 1,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 1698,
+						"y": 1,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 1698,
+						"y": 1,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 340,
+						"y": 429,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 340,
+						"y": 429,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaRapid_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 679,
+						"y": 429,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaWide_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 178,
+						"h": 426
+					},
+					"frame": {
+						"x": 1018,
+						"y": 429,
+						"w": 178,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaWide_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 178,
+						"h": 426
+					},
+					"frame": {
+						"x": 1198,
+						"y": 429,
+						"w": 178,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaWide_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 178,
+						"h": 426
+					},
+					"frame": {
+						"x": 1198,
+						"y": 429,
+						"w": 178,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaWide_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 178,
+						"h": 426
+					},
+					"frame": {
+						"x": 1378,
+						"y": 429,
+						"w": 178,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaWide_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 178,
+						"h": 426
+					},
+					"frame": {
+						"x": 1378,
+						"y": 429,
+						"w": 178,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaWide_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 178,
+						"h": 426
+					},
+					"frame": {
+						"x": 1558,
+						"y": 429,
+						"w": 178,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaWide_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 178,
+						"h": 426
+					},
+					"frame": {
+						"x": 1558,
+						"y": 429,
+						"w": 178,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaWide_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 178,
+						"h": 426
+					},
+					"frame": {
+						"x": 1738,
+						"y": 429,
+						"w": 178,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaWide_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 246,
+						"w": 178,
+						"h": 426
+					},
+					"frame": {
+						"x": 1738,
+						"y": 429,
+						"w": 178,
+						"h": 426
+					}
+				},
+				{
+					"filename": "elkeemaWide_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 245,
+						"w": 180,
+						"h": 427
+					},
+					"frame": {
+						"x": 1,
+						"y": 857,
+						"w": 180,
+						"h": 427
+					}
+				},
+				{
+					"filename": "elkeemaWide_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 245,
+						"w": 182,
+						"h": 427
+					},
+					"frame": {
+						"x": 183,
+						"y": 857,
+						"w": 182,
+						"h": 427
+					}
+				},
+				{
+					"filename": "elkeemaWide_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 245,
+						"w": 182,
+						"h": 427
+					},
+					"frame": {
+						"x": 183,
+						"y": 857,
+						"w": 182,
+						"h": 427
+					}
+				},
+				{
+					"filename": "elkeemaWide_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 245,
+						"w": 183,
+						"h": 427
+					},
+					"frame": {
+						"x": 367,
+						"y": 857,
+						"w": 183,
+						"h": 427
+					}
+				},
+				{
+					"filename": "elkeemaWide_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 245,
+						"w": 183,
+						"h": 427
+					},
+					"frame": {
+						"x": 367,
+						"y": 857,
+						"w": 183,
+						"h": 427
+					}
+				},
+				{
+					"filename": "elkeemaWide_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 274,
+						"y": 245,
+						"w": 184,
+						"h": 427
+					},
+					"frame": {
+						"x": 552,
+						"y": 857,
+						"w": 184,
+						"h": 427
+					}
+				},
+				{
+					"filename": "elkeemaWide_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 274,
+						"y": 245,
+						"w": 184,
+						"h": 427
+					},
+					"frame": {
+						"x": 552,
+						"y": 857,
+						"w": 184,
+						"h": 427
+					}
+				},
+				{
+					"filename": "elkeemaWide_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 273,
+						"y": 245,
+						"w": 185,
+						"h": 427
+					},
+					"frame": {
+						"x": 738,
+						"y": 857,
+						"w": 185,
+						"h": 427
+					}
+				},
+				{
+					"filename": "elkeemaWide_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 273,
+						"y": 245,
+						"w": 185,
+						"h": 427
+					},
+					"frame": {
+						"x": 738,
+						"y": 857,
+						"w": 185,
+						"h": 427
+					}
+				},
+				{
+					"filename": "elkeemaWide_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 272,
+						"y": 245,
+						"w": 186,
+						"h": 427
+					},
+					"frame": {
+						"x": 925,
+						"y": 857,
+						"w": 186,
+						"h": 427
+					}
+				},
+				{
+					"filename": "elkeemaWide_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 245,
+						"w": 180,
+						"h": 427
+					},
+					"frame": {
+						"x": 1113,
+						"y": 857,
+						"w": 180,
+						"h": 427
+					}
+				},
+				{
+					"filename": "Elkeema.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 246,
+						"w": 232,
+						"h": 428
+					},
+					"frame": {
+						"x": 1295,
+						"y": 857,
+						"w": 232,
+						"h": 428
+					}
+				},
+				{
+					"filename": "elkeemaIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 246,
+						"w": 232,
+						"h": 428
+					},
+					"frame": {
+						"x": 1295,
+						"y": 857,
+						"w": 232,
+						"h": 428
+					}
+				},
+				{
+					"filename": "elkeemaIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 246,
+						"w": 233,
+						"h": 428
+					},
+					"frame": {
+						"x": 1529,
+						"y": 857,
+						"w": 233,
+						"h": 428
+					}
+				},
+				{
+					"filename": "elkeemaIdle_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 246,
+						"w": 233,
+						"h": 428
+					},
+					"frame": {
+						"x": 1529,
+						"y": 857,
+						"w": 233,
+						"h": 428
+					}
+				},
+				{
+					"filename": "elkeemaIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 246,
+						"w": 233,
+						"h": 428
+					},
+					"frame": {
+						"x": 1764,
+						"y": 857,
+						"w": 233,
+						"h": 428
+					}
+				},
+				{
+					"filename": "elkeemaIdle_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 246,
+						"w": 233,
+						"h": 428
+					},
+					"frame": {
+						"x": 1764,
+						"y": 857,
+						"w": 233,
+						"h": 428
+					}
+				},
+				{
+					"filename": "elkeemaIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 233,
+						"h": 429
+					},
+					"frame": {
+						"x": 1,
+						"y": 1287,
+						"w": 233,
+						"h": 429
+					}
+				},
+				{
+					"filename": "elkeemaIdle_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 233,
+						"h": 429
+					},
+					"frame": {
+						"x": 1,
+						"y": 1287,
+						"w": 233,
+						"h": 429
+					}
+				},
+				{
+					"filename": "elkeemaIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 234,
+						"h": 429
+					},
+					"frame": {
+						"x": 236,
+						"y": 1287,
+						"w": 234,
+						"h": 429
+					}
+				},
+				{
+					"filename": "elkeemaIdle_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 234,
+						"h": 429
+					},
+					"frame": {
+						"x": 236,
+						"y": 1287,
+						"w": 234,
+						"h": 429
+					}
+				},
+				{
+					"filename": "elkeemaIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 235,
+						"h": 429
+					},
+					"frame": {
+						"x": 472,
+						"y": 1287,
+						"w": 235,
+						"h": 429
+					}
+				},
+				{
+					"filename": "elkeemaIdle_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 235,
+						"h": 429
+					},
+					"frame": {
+						"x": 709,
+						"y": 1287,
+						"w": 235,
+						"h": 429
+					}
+				},
+				{
+					"filename": "elkeemaIdle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 235,
+						"h": 430
+					},
+					"frame": {
+						"x": 946,
+						"y": 1287,
+						"w": 235,
+						"h": 430
+					}
+				},
+				{
+					"filename": "elkeemaIdle_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 235,
+						"h": 430
+					},
+					"frame": {
+						"x": 946,
+						"y": 1287,
+						"w": 235,
+						"h": 430
+					}
+				},
+				{
+					"filename": "elkeemaIdle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 236,
+						"h": 430
+					},
+					"frame": {
+						"x": 1183,
+						"y": 1287,
+						"w": 236,
+						"h": 430
+					}
+				},
+				{
+					"filename": "elkeemaIdle_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 236,
+						"h": 430
+					},
+					"frame": {
+						"x": 1183,
+						"y": 1287,
+						"w": 236,
+						"h": 430
+					}
+				},
+				{
+					"filename": "elkeemaIdle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 236,
+						"h": 430
+					},
+					"frame": {
+						"x": 1421,
+						"y": 1287,
+						"w": 236,
+						"h": 430
+					}
+				},
+				{
+					"filename": "elkeemaIdle_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 236,
+						"h": 430
+					},
+					"frame": {
+						"x": 1421,
+						"y": 1287,
+						"w": 236,
+						"h": 430
+					}
+				},
+				{
+					"filename": "elkeemaIdle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 237,
+						"h": 430
+					},
+					"frame": {
+						"x": 1659,
+						"y": 1287,
+						"w": 237,
+						"h": 430
+					}
+				},
+				{
+					"filename": "elkeemaIdle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 237,
+						"h": 430
+					},
+					"frame": {
+						"x": 1659,
+						"y": 1287,
+						"w": 237,
+						"h": 430
+					}
+				}
+			]
+		},
+		{
+			"image": "Elkeema-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1777,
+				"h": 1406
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "elkeemaIdle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 245,
+						"w": 237,
+						"h": 430
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 237,
+						"h": 430
+					}
+				},
+				{
+					"filename": "elkeemaAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 218,
+						"w": 383,
+						"h": 456
+					},
+					"frame": {
+						"x": 240,
+						"y": 1,
+						"w": 383,
+						"h": 456
+					}
+				},
+				{
+					"filename": "elkeemaAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 204,
+						"w": 472,
+						"h": 468
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 472,
+						"h": 468
+					}
+				},
+				{
+					"filename": "elkeemaPunch_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 201,
+						"w": 309,
+						"h": 473
+					},
+					"frame": {
+						"x": 1099,
+						"y": 1,
+						"w": 309,
+						"h": 473
+					}
+				},
+				{
+					"filename": "elkeemaKick_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 243,
+						"y": 138,
+						"w": 278,
+						"h": 533
+					},
+					"frame": {
+						"x": 1410,
+						"y": 1,
+						"w": 278,
+						"h": 533
+					}
+				},
+				{
+					"filename": "elkeemaPunch_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 140,
+						"w": 221,
+						"h": 536
+					},
+					"frame": {
+						"x": 1,
+						"y": 536,
+						"w": 221,
+						"h": 536
+					}
+				},
+				{
+					"filename": "elkeemaAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 211,
+						"y": 135,
+						"w": 497,
+						"h": 541
+					},
+					"frame": {
+						"x": 224,
+						"y": 536,
+						"w": 497,
+						"h": 541
+					}
+				},
+				{
+					"filename": "elkeemaAiming.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2048,
+						"h": 2048
+					},
+					"spriteSourceSize": {
+						"x": 820,
+						"y": 656,
+						"w": 689,
+						"h": 867
+					},
+					"frame": {
+						"x": 723,
+						"y": 536,
+						"w": 689,
+						"h": 867
+					}
+				},
+				{
+					"filename": "elkeemaWide.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2048,
+						"h": 2048
+					},
+					"spriteSourceSize": {
+						"x": 820,
+						"y": 654,
+						"w": 362,
+						"h": 869
+					},
+					"frame": {
+						"x": 1414,
+						"y": 536,
+						"w": 362,
+						"h": 869
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f4adf5bb562f2c087b0496be2158e81d:ab6fc1c0b8ff316cb10a04c5da48a8e2:f2e4069ac00b792c6eebedb30c4339bf$"
+	}
+}

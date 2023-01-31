@@ -1,0 +1,976 @@
+{
+	"textures": [
+		{
+			"image": "Edge-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1969,
+				"h": 1735
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "EdgeDie_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 476,
+						"w": 470,
+						"h": 210
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 470,
+						"h": 210
+					}
+				},
+				{
+					"filename": "EdgeDie_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 474,
+						"w": 466,
+						"h": 218
+					},
+					"frame": {
+						"x": 473,
+						"y": 1,
+						"w": 466,
+						"h": 218
+					}
+				},
+				{
+					"filename": "EdgeDie_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 379,
+						"w": 449,
+						"h": 284
+					},
+					"frame": {
+						"x": 941,
+						"y": 1,
+						"w": 449,
+						"h": 284
+					}
+				},
+				{
+					"filename": "EdgeDie_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 285,
+						"w": 423,
+						"h": 369
+					},
+					"frame": {
+						"x": 1392,
+						"y": 1,
+						"w": 423,
+						"h": 369
+					}
+				},
+				{
+					"filename": "EdgeAttack2_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 247,
+						"w": 307,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 372,
+						"w": 307,
+						"h": 422
+					}
+				},
+				{
+					"filename": "EdgeDie_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 176,
+						"y": 177,
+						"w": 379,
+						"h": 423
+					},
+					"frame": {
+						"x": 310,
+						"y": 372,
+						"w": 379,
+						"h": 423
+					}
+				},
+				{
+					"filename": "EdgeAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 240,
+						"w": 413,
+						"h": 431
+					},
+					"frame": {
+						"x": 691,
+						"y": 372,
+						"w": 413,
+						"h": 431
+					}
+				},
+				{
+					"filename": "EdgeDie_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 317,
+						"y": 219,
+						"w": 268,
+						"h": 431
+					},
+					"frame": {
+						"x": 1106,
+						"y": 372,
+						"w": 268,
+						"h": 431
+					}
+				},
+				{
+					"filename": "EdgeKick2_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 203,
+						"y": 229,
+						"w": 275,
+						"h": 441
+					},
+					"frame": {
+						"x": 1376,
+						"y": 372,
+						"w": 275,
+						"h": 441
+					}
+				},
+				{
+					"filename": "EdgePunch_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 193,
+						"y": 229,
+						"w": 273,
+						"h": 444
+					},
+					"frame": {
+						"x": 1653,
+						"y": 372,
+						"w": 273,
+						"h": 444
+					}
+				},
+				{
+					"filename": "EdgeAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 197,
+						"y": 223,
+						"w": 260,
+						"h": 445
+					},
+					"frame": {
+						"x": 1,
+						"y": 818,
+						"w": 260,
+						"h": 445
+					}
+				},
+				{
+					"filename": "EdgeKick_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 255,
+						"y": 215,
+						"w": 356,
+						"h": 448
+					},
+					"frame": {
+						"x": 263,
+						"y": 818,
+						"w": 356,
+						"h": 448
+					}
+				},
+				{
+					"filename": "EdgeKick2_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 290,
+						"y": 220,
+						"w": 206,
+						"h": 450
+					},
+					"frame": {
+						"x": 621,
+						"y": 818,
+						"w": 206,
+						"h": 450
+					}
+				},
+				{
+					"filename": "EdgeKick_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 301,
+						"y": 220,
+						"w": 202,
+						"h": 450
+					},
+					"frame": {
+						"x": 829,
+						"y": 818,
+						"w": 202,
+						"h": 450
+					}
+				},
+				{
+					"filename": "EdgeKick2_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 216,
+						"w": 393,
+						"h": 451
+					},
+					"frame": {
+						"x": 1033,
+						"y": 818,
+						"w": 393,
+						"h": 451
+					}
+				},
+				{
+					"filename": "EdgeDie_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 267,
+						"y": 185,
+						"w": 300,
+						"h": 454
+					},
+					"frame": {
+						"x": 1428,
+						"y": 818,
+						"w": 300,
+						"h": 454
+					}
+				},
+				{
+					"filename": "EdgeHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 216,
+						"w": 238,
+						"h": 455
+					},
+					"frame": {
+						"x": 1730,
+						"y": 818,
+						"w": 238,
+						"h": 455
+					}
+				},
+				{
+					"filename": "EdgeHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 268,
+						"y": 219,
+						"w": 242,
+						"h": 457
+					},
+					"frame": {
+						"x": 1,
+						"y": 1275,
+						"w": 242,
+						"h": 457
+					}
+				},
+				{
+					"filename": "EdgeIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 211,
+						"w": 240,
+						"h": 458
+					},
+					"frame": {
+						"x": 245,
+						"y": 1275,
+						"w": 240,
+						"h": 458
+					}
+				},
+				{
+					"filename": "EdgeIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 211,
+						"w": 240,
+						"h": 458
+					},
+					"frame": {
+						"x": 487,
+						"y": 1275,
+						"w": 240,
+						"h": 458
+					}
+				},
+				{
+					"filename": "EdgeIdle_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 211,
+						"w": 240,
+						"h": 458
+					},
+					"frame": {
+						"x": 487,
+						"y": 1275,
+						"w": 240,
+						"h": 458
+					}
+				},
+				{
+					"filename": "EdgeIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 210,
+						"w": 240,
+						"h": 459
+					},
+					"frame": {
+						"x": 729,
+						"y": 1275,
+						"w": 240,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 258,
+						"y": 210,
+						"w": 240,
+						"h": 459
+					},
+					"frame": {
+						"x": 971,
+						"y": 1275,
+						"w": 240,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 258,
+						"y": 210,
+						"w": 240,
+						"h": 459
+					},
+					"frame": {
+						"x": 971,
+						"y": 1275,
+						"w": 240,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 256,
+						"y": 210,
+						"w": 240,
+						"h": 459
+					},
+					"frame": {
+						"x": 1213,
+						"y": 1275,
+						"w": 240,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 256,
+						"y": 210,
+						"w": 240,
+						"h": 459
+					},
+					"frame": {
+						"x": 1213,
+						"y": 1275,
+						"w": 240,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 210,
+						"w": 240,
+						"h": 459
+					},
+					"frame": {
+						"x": 1455,
+						"y": 1275,
+						"w": 240,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 210,
+						"w": 240,
+						"h": 459
+					},
+					"frame": {
+						"x": 1455,
+						"y": 1275,
+						"w": 240,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 210,
+						"w": 241,
+						"h": 459
+					},
+					"frame": {
+						"x": 1697,
+						"y": 1275,
+						"w": 241,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 210,
+						"w": 241,
+						"h": 459
+					},
+					"frame": {
+						"x": 1697,
+						"y": 1275,
+						"w": 241,
+						"h": 459
+					}
+				}
+			]
+		},
+		{
+			"image": "Edge-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 998,
+				"h": 1976
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "EdgeIdle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 210,
+						"w": 241,
+						"h": 459
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 241,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 210,
+						"w": 241,
+						"h": 459
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 241,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 210,
+						"w": 241,
+						"h": 459
+					},
+					"frame": {
+						"x": 244,
+						"y": 1,
+						"w": 241,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 210,
+						"w": 241,
+						"h": 459
+					},
+					"frame": {
+						"x": 244,
+						"y": 1,
+						"w": 241,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 247,
+						"y": 210,
+						"w": 241,
+						"h": 459
+					},
+					"frame": {
+						"x": 487,
+						"y": 1,
+						"w": 241,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 247,
+						"y": 210,
+						"w": 241,
+						"h": 459
+					},
+					"frame": {
+						"x": 487,
+						"y": 1,
+						"w": 241,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 247,
+						"y": 210,
+						"w": 241,
+						"h": 459
+					},
+					"frame": {
+						"x": 730,
+						"y": 1,
+						"w": 241,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeIdle_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 210,
+						"w": 240,
+						"h": 459
+					},
+					"frame": {
+						"x": 1,
+						"y": 462,
+						"w": 240,
+						"h": 459
+					}
+				},
+				{
+					"filename": "EdgeAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 223,
+						"y": 231,
+						"w": 402,
+						"h": 465
+					},
+					"frame": {
+						"x": 243,
+						"y": 462,
+						"w": 402,
+						"h": 465
+					}
+				},
+				{
+					"filename": "EdgeAttack2_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 231,
+						"w": 350,
+						"h": 471
+					},
+					"frame": {
+						"x": 647,
+						"y": 462,
+						"w": 350,
+						"h": 471
+					}
+				},
+				{
+					"filename": "EdgeKick_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 243,
+						"y": 190,
+						"w": 220,
+						"h": 474
+					},
+					"frame": {
+						"x": 1,
+						"y": 935,
+						"w": 220,
+						"h": 474
+					}
+				},
+				{
+					"filename": "EdgePunch_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 194,
+						"w": 331,
+						"h": 477
+					},
+					"frame": {
+						"x": 223,
+						"y": 935,
+						"w": 331,
+						"h": 477
+					}
+				},
+				{
+					"filename": "EdgeAttack2_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 178,
+						"w": 369,
+						"h": 489
+					},
+					"frame": {
+						"x": 556,
+						"y": 935,
+						"w": 369,
+						"h": 489
+					}
+				},
+				{
+					"filename": "EdgeAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 223,
+						"y": 182,
+						"w": 413,
+						"h": 518
+					},
+					"frame": {
+						"x": 1,
+						"y": 1426,
+						"w": 413,
+						"h": 518
+					}
+				},
+				{
+					"filename": "EdgeAttack2_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 208,
+						"y": 158,
+						"w": 409,
+						"h": 549
+					},
+					"frame": {
+						"x": 416,
+						"y": 1426,
+						"w": 409,
+						"h": 549
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c2a6fe5b6e9166ad757604cbf321edd8:4e6ddb47a92a7d9b00580ff6c20296f7:984c6d3affbd0728438a6019454af1f9$"
+	}
+}

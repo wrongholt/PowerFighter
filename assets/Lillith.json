@@ -1,0 +1,1648 @@
+{
+	"textures": [
+		{
+			"image": "Lillith-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1918,
+				"h": 2027
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "LillithDie_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 93,
+						"y": 569,
+						"w": 455,
+						"h": 116
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 455,
+						"h": 116
+					}
+				},
+				{
+					"filename": "LillithDie_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 564,
+						"w": 451,
+						"h": 125
+					},
+					"frame": {
+						"x": 458,
+						"y": 1,
+						"w": 451,
+						"h": 125
+					}
+				},
+				{
+					"filename": "LillithDie_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 484,
+						"w": 438,
+						"h": 183
+					},
+					"frame": {
+						"x": 911,
+						"y": 1,
+						"w": 438,
+						"h": 183
+					}
+				},
+				{
+					"filename": "LillithDie_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 415,
+						"w": 412,
+						"h": 243
+					},
+					"frame": {
+						"x": 1351,
+						"y": 1,
+						"w": 412,
+						"h": 243
+					}
+				},
+				{
+					"filename": "LillithDie_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 175,
+						"y": 314,
+						"w": 379,
+						"h": 279
+					},
+					"frame": {
+						"x": 1,
+						"y": 246,
+						"w": 379,
+						"h": 279
+					}
+				},
+				{
+					"filename": "LillithDie_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 266,
+						"y": 257,
+						"w": 299,
+						"h": 377
+					},
+					"frame": {
+						"x": 382,
+						"y": 246,
+						"w": 299,
+						"h": 377
+					}
+				},
+				{
+					"filename": "LillithDie_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 315,
+						"y": 229,
+						"w": 178,
+						"h": 422
+					},
+					"frame": {
+						"x": 683,
+						"y": 246,
+						"w": 178,
+						"h": 422
+					}
+				},
+				{
+					"filename": "LillithKick_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 242,
+						"y": 240,
+						"w": 215,
+						"h": 428
+					},
+					"frame": {
+						"x": 863,
+						"y": 246,
+						"w": 215,
+						"h": 428
+					}
+				},
+				{
+					"filename": "LillithPunch_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 243,
+						"w": 313,
+						"h": 429
+					},
+					"frame": {
+						"x": 1080,
+						"y": 246,
+						"w": 313,
+						"h": 429
+					}
+				},
+				{
+					"filename": "LillithKick2_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 240,
+						"w": 235,
+						"h": 430
+					},
+					"frame": {
+						"x": 1395,
+						"y": 246,
+						"w": 235,
+						"h": 430
+					}
+				},
+				{
+					"filename": "LillithPunch_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 240,
+						"w": 225,
+						"h": 434
+					},
+					"frame": {
+						"x": 1632,
+						"y": 246,
+						"w": 225,
+						"h": 434
+					}
+				},
+				{
+					"filename": "LillithKick_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 281,
+						"y": 227,
+						"w": 327,
+						"h": 436
+					},
+					"frame": {
+						"x": 1,
+						"y": 682,
+						"w": 327,
+						"h": 436
+					}
+				},
+				{
+					"filename": "LillithKick2_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 291,
+						"y": 233,
+						"w": 207,
+						"h": 439
+					},
+					"frame": {
+						"x": 330,
+						"y": 682,
+						"w": 207,
+						"h": 439
+					}
+				},
+				{
+					"filename": "LillithKick_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 302,
+						"y": 232,
+						"w": 177,
+						"h": 439
+					},
+					"frame": {
+						"x": 539,
+						"y": 682,
+						"w": 177,
+						"h": 439
+					}
+				},
+				{
+					"filename": "LillithKick2_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 266,
+						"y": 228,
+						"w": 370,
+						"h": 441
+					},
+					"frame": {
+						"x": 718,
+						"y": 682,
+						"w": 370,
+						"h": 441
+					}
+				},
+				{
+					"filename": "LillithHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 265,
+						"y": 227,
+						"w": 176,
+						"h": 444
+					},
+					"frame": {
+						"x": 1090,
+						"y": 682,
+						"w": 176,
+						"h": 444
+					}
+				},
+				{
+					"filename": "LillithHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 266,
+						"y": 230,
+						"w": 208,
+						"h": 444
+					},
+					"frame": {
+						"x": 1268,
+						"y": 682,
+						"w": 208,
+						"h": 444
+					}
+				},
+				{
+					"filename": "LillithIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 224,
+						"w": 180,
+						"h": 446
+					},
+					"frame": {
+						"x": 1478,
+						"y": 682,
+						"w": 180,
+						"h": 446
+					}
+				},
+				{
+					"filename": "LillithIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 224,
+						"w": 180,
+						"h": 446
+					},
+					"frame": {
+						"x": 1660,
+						"y": 682,
+						"w": 180,
+						"h": 446
+					}
+				},
+				{
+					"filename": "LillithIdle_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 224,
+						"w": 180,
+						"h": 446
+					},
+					"frame": {
+						"x": 1660,
+						"y": 682,
+						"w": 180,
+						"h": 446
+					}
+				},
+				{
+					"filename": "LillithAim_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 241,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 241,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 241,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 481,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 481,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 481,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 721,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 721,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 721,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 721,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 961,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 961,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 961,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 961,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 1201,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 1201,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 1201,
+						"y": 1130,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1441,
+						"y": 1130,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1441,
+						"y": 1130,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1441,
+						"y": 1130,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1441,
+						"y": 1130,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1680,
+						"y": 1130,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1680,
+						"y": 1130,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1680,
+						"y": 1130,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1680,
+						"y": 1130,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1579,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1579,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1579,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1579,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 240,
+						"y": 1579,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 240,
+						"y": 1579,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 240,
+						"y": 1579,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 240,
+						"y": 1579,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 479,
+						"y": 1579,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 479,
+						"y": 1579,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithAim_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 238,
+						"h": 447
+					},
+					"frame": {
+						"x": 718,
+						"y": 1579,
+						"w": 238,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 180,
+						"h": 447
+					},
+					"frame": {
+						"x": 958,
+						"y": 1579,
+						"w": 180,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 180,
+						"h": 447
+					},
+					"frame": {
+						"x": 1140,
+						"y": 1579,
+						"w": 180,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 180,
+						"h": 447
+					},
+					"frame": {
+						"x": 1140,
+						"y": 1579,
+						"w": 180,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 180,
+						"h": 447
+					},
+					"frame": {
+						"x": 1322,
+						"y": 1579,
+						"w": 180,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 180,
+						"h": 447
+					},
+					"frame": {
+						"x": 1322,
+						"y": 1579,
+						"w": 180,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 180,
+						"h": 447
+					},
+					"frame": {
+						"x": 1504,
+						"y": 1579,
+						"w": 180,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 223,
+						"w": 182,
+						"h": 447
+					},
+					"frame": {
+						"x": 1686,
+						"y": 1579,
+						"w": 182,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 276,
+						"y": 223,
+						"w": 182,
+						"h": 447
+					},
+					"frame": {
+						"x": 1686,
+						"y": 1579,
+						"w": 182,
+						"h": 447
+					}
+				}
+			]
+		},
+		{
+			"image": "Lillith-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1940,
+				"h": 449
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "LillithIdle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 274,
+						"y": 223,
+						"w": 184,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 184,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 274,
+						"y": 223,
+						"w": 184,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 184,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 273,
+						"y": 223,
+						"w": 185,
+						"h": 447
+					},
+					"frame": {
+						"x": 187,
+						"y": 1,
+						"w": 185,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 273,
+						"y": 223,
+						"w": 185,
+						"h": 447
+					},
+					"frame": {
+						"x": 187,
+						"y": 1,
+						"w": 185,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 272,
+						"y": 223,
+						"w": 186,
+						"h": 447
+					},
+					"frame": {
+						"x": 374,
+						"y": 1,
+						"w": 186,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 272,
+						"y": 223,
+						"w": 186,
+						"h": 447
+					},
+					"frame": {
+						"x": 374,
+						"y": 1,
+						"w": 186,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 223,
+						"w": 187,
+						"h": 447
+					},
+					"frame": {
+						"x": 562,
+						"y": 1,
+						"w": 187,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 180,
+						"h": 447
+					},
+					"frame": {
+						"x": 751,
+						"y": 1,
+						"w": 180,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithIdle_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 180,
+						"h": 447
+					},
+					"frame": {
+						"x": 933,
+						"y": 1,
+						"w": 180,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 303,
+						"h": 447
+					},
+					"frame": {
+						"x": 1115,
+						"y": 1,
+						"w": 303,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 281,
+						"h": 447
+					},
+					"frame": {
+						"x": 1420,
+						"y": 1,
+						"w": 281,
+						"h": 447
+					}
+				},
+				{
+					"filename": "LillithShoot_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 223,
+						"w": 236,
+						"h": 447
+					},
+					"frame": {
+						"x": 1703,
+						"y": 1,
+						"w": 236,
+						"h": 447
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:10ba9ede89a3d7486f336b5388bc4ace:4246d2aa6c6904ad3419d2ec9c3f1a98:aa1a603392fbf034eeab5101889fc4c7$"
+	}
+}

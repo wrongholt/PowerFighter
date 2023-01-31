@@ -1,0 +1,1365 @@
+{
+	"textures": [
+		{
+			"image": "DejahThoris-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1917,
+				"h": 1622
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "DejahThorisDie_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 93,
+						"y": 506,
+						"w": 457,
+						"h": 195
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 457,
+						"h": 195
+					}
+				},
+				{
+					"filename": "DejahThorisDie_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 503,
+						"w": 453,
+						"h": 206
+					},
+					"frame": {
+						"x": 460,
+						"y": 1,
+						"w": 453,
+						"h": 206
+					}
+				},
+				{
+					"filename": "DejahThorisDie_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 414,
+						"w": 443,
+						"h": 256
+					},
+					"frame": {
+						"x": 915,
+						"y": 1,
+						"w": 443,
+						"h": 256
+					}
+				},
+				{
+					"filename": "DejahThorisDie_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 322,
+						"w": 417,
+						"h": 339
+					},
+					"frame": {
+						"x": 1360,
+						"y": 1,
+						"w": 417,
+						"h": 339
+					}
+				},
+				{
+					"filename": "DejahThorisAttack2_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 201,
+						"y": 298,
+						"w": 519,
+						"h": 369
+					},
+					"frame": {
+						"x": 1,
+						"y": 342,
+						"w": 519,
+						"h": 369
+					}
+				},
+				{
+					"filename": "DejahThorisAttack2_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 213,
+						"y": 287,
+						"w": 507,
+						"h": 379
+					},
+					"frame": {
+						"x": 522,
+						"y": 342,
+						"w": 507,
+						"h": 379
+					}
+				},
+				{
+					"filename": "DejahThorisDie_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 173,
+						"y": 212,
+						"w": 383,
+						"h": 380
+					},
+					"frame": {
+						"x": 1031,
+						"y": 342,
+						"w": 383,
+						"h": 380
+					}
+				},
+				{
+					"filename": "DejahThorisAttack2_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 230,
+						"y": 279,
+						"w": 315,
+						"h": 389
+					},
+					"frame": {
+						"x": 1416,
+						"y": 342,
+						"w": 315,
+						"h": 389
+					}
+				},
+				{
+					"filename": "DejahThorisAttack2_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 175,
+						"y": 264,
+						"w": 345,
+						"h": 404
+					},
+					"frame": {
+						"x": 1,
+						"y": 733,
+						"w": 345,
+						"h": 404
+					}
+				},
+				{
+					"filename": "DejahThorisDie_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 268,
+						"y": 217,
+						"w": 297,
+						"h": 418
+					},
+					"frame": {
+						"x": 348,
+						"y": 733,
+						"w": 297,
+						"h": 418
+					}
+				},
+				{
+					"filename": "DejahThorisAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 229,
+						"y": 245,
+						"w": 389,
+						"h": 426
+					},
+					"frame": {
+						"x": 647,
+						"y": 733,
+						"w": 389,
+						"h": 426
+					}
+				},
+				{
+					"filename": "DejahThorisDie_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 310,
+						"y": 225,
+						"w": 254,
+						"h": 426
+					},
+					"frame": {
+						"x": 1038,
+						"y": 733,
+						"w": 254,
+						"h": 426
+					}
+				},
+				{
+					"filename": "DejahThorisKick2_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 238,
+						"w": 241,
+						"h": 434
+					},
+					"frame": {
+						"x": 1294,
+						"y": 733,
+						"w": 241,
+						"h": 434
+					}
+				},
+				{
+					"filename": "DejahThorisKick_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 225,
+						"w": 379,
+						"h": 438
+					},
+					"frame": {
+						"x": 1537,
+						"y": 733,
+						"w": 379,
+						"h": 438
+					}
+				},
+				{
+					"filename": "DejahThorisKick_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 302,
+						"y": 231,
+						"w": 197,
+						"h": 440
+					},
+					"frame": {
+						"x": 1,
+						"y": 1173,
+						"w": 197,
+						"h": 440
+					}
+				},
+				{
+					"filename": "DejahThorisKick2_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 292,
+						"y": 231,
+						"w": 217,
+						"h": 442
+					},
+					"frame": {
+						"x": 200,
+						"y": 1173,
+						"w": 217,
+						"h": 442
+					}
+				},
+				{
+					"filename": "DejahThorisKick2_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 218,
+						"y": 225,
+						"w": 418,
+						"h": 446
+					},
+					"frame": {
+						"x": 419,
+						"y": 1173,
+						"w": 418,
+						"h": 446
+					}
+				},
+				{
+					"filename": "DejahThorisHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 215,
+						"y": 225,
+						"w": 237,
+						"h": 447
+					},
+					"frame": {
+						"x": 839,
+						"y": 1173,
+						"w": 237,
+						"h": 447
+					}
+				},
+				{
+					"filename": "DejahThorisHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 266,
+						"y": 227,
+						"w": 262,
+						"h": 448
+					},
+					"frame": {
+						"x": 1078,
+						"y": 1173,
+						"w": 262,
+						"h": 448
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 236,
+						"y": 222,
+						"w": 235,
+						"h": 448
+					},
+					"frame": {
+						"x": 1342,
+						"y": 1173,
+						"w": 235,
+						"h": 448
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 236,
+						"y": 222,
+						"w": 235,
+						"h": 448
+					},
+					"frame": {
+						"x": 1579,
+						"y": 1173,
+						"w": 235,
+						"h": 448
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 236,
+						"y": 222,
+						"w": 235,
+						"h": 448
+					},
+					"frame": {
+						"x": 1579,
+						"y": 1173,
+						"w": 235,
+						"h": 448
+					}
+				}
+			]
+		},
+		{
+			"image": "DejahThoris-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1921,
+				"h": 1825
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "DejahThorisIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 222,
+						"w": 235,
+						"h": 448
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 235,
+						"h": 448
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 222,
+						"w": 235,
+						"h": 448
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 235,
+						"h": 448
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 222,
+						"w": 236,
+						"h": 448
+					},
+					"frame": {
+						"x": 238,
+						"y": 1,
+						"w": 236,
+						"h": 448
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 222,
+						"w": 236,
+						"h": 448
+					},
+					"frame": {
+						"x": 238,
+						"y": 1,
+						"w": 236,
+						"h": 448
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 222,
+						"w": 236,
+						"h": 448
+					},
+					"frame": {
+						"x": 476,
+						"y": 1,
+						"w": 236,
+						"h": 448
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 222,
+						"w": 236,
+						"h": 448
+					},
+					"frame": {
+						"x": 476,
+						"y": 1,
+						"w": 236,
+						"h": 448
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 229,
+						"y": 222,
+						"w": 238,
+						"h": 448
+					},
+					"frame": {
+						"x": 714,
+						"y": 1,
+						"w": 238,
+						"h": 448
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 229,
+						"y": 222,
+						"w": 238,
+						"h": 448
+					},
+					"frame": {
+						"x": 954,
+						"y": 1,
+						"w": 238,
+						"h": 448
+					}
+				},
+				{
+					"filename": "DejahThorisAim_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 221,
+						"w": 362,
+						"h": 449
+					},
+					"frame": {
+						"x": 1194,
+						"y": 1,
+						"w": 362,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 221,
+						"w": 362,
+						"h": 449
+					},
+					"frame": {
+						"x": 1558,
+						"y": 1,
+						"w": 362,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 221,
+						"w": 362,
+						"h": 449
+					},
+					"frame": {
+						"x": 1558,
+						"y": 1,
+						"w": 362,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 221,
+						"w": 363,
+						"h": 449
+					},
+					"frame": {
+						"x": 1,
+						"y": 452,
+						"w": 363,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 221,
+						"w": 363,
+						"h": 449
+					},
+					"frame": {
+						"x": 1,
+						"y": 452,
+						"w": 363,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 230,
+						"y": 221,
+						"w": 365,
+						"h": 449
+					},
+					"frame": {
+						"x": 366,
+						"y": 452,
+						"w": 365,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 230,
+						"y": 221,
+						"w": 365,
+						"h": 449
+					},
+					"frame": {
+						"x": 366,
+						"y": 452,
+						"w": 365,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 228,
+						"y": 221,
+						"w": 366,
+						"h": 449
+					},
+					"frame": {
+						"x": 733,
+						"y": 452,
+						"w": 366,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 228,
+						"y": 221,
+						"w": 366,
+						"h": 449
+					},
+					"frame": {
+						"x": 733,
+						"y": 452,
+						"w": 366,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 226,
+						"y": 221,
+						"w": 368,
+						"h": 449
+					},
+					"frame": {
+						"x": 1101,
+						"y": 452,
+						"w": 368,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 224,
+						"y": 221,
+						"w": 370,
+						"h": 449
+					},
+					"frame": {
+						"x": 1471,
+						"y": 452,
+						"w": 370,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 224,
+						"y": 221,
+						"w": 370,
+						"h": 449
+					},
+					"frame": {
+						"x": 1471,
+						"y": 452,
+						"w": 370,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 221,
+						"w": 372,
+						"h": 449
+					},
+					"frame": {
+						"x": 1,
+						"y": 903,
+						"w": 372,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 221,
+						"w": 372,
+						"h": 449
+					},
+					"frame": {
+						"x": 1,
+						"y": 903,
+						"w": 372,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 221,
+						"y": 221,
+						"w": 373,
+						"h": 449
+					},
+					"frame": {
+						"x": 375,
+						"y": 903,
+						"w": 373,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 221,
+						"y": 221,
+						"w": 373,
+						"h": 449
+					},
+					"frame": {
+						"x": 375,
+						"y": 903,
+						"w": 373,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 220,
+						"y": 221,
+						"w": 374,
+						"h": 449
+					},
+					"frame": {
+						"x": 750,
+						"y": 903,
+						"w": 374,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 220,
+						"y": 221,
+						"w": 374,
+						"h": 449
+					},
+					"frame": {
+						"x": 750,
+						"y": 903,
+						"w": 374,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 219,
+						"y": 221,
+						"w": 375,
+						"h": 449
+					},
+					"frame": {
+						"x": 1126,
+						"y": 903,
+						"w": 375,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAim_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 226,
+						"y": 221,
+						"w": 368,
+						"h": 449
+					},
+					"frame": {
+						"x": 1503,
+						"y": 903,
+						"w": 368,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 227,
+						"y": 221,
+						"w": 242,
+						"h": 449
+					},
+					"frame": {
+						"x": 1,
+						"y": 1354,
+						"w": 242,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 227,
+						"y": 221,
+						"w": 242,
+						"h": 449
+					},
+					"frame": {
+						"x": 1,
+						"y": 1354,
+						"w": 242,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 226,
+						"y": 221,
+						"w": 244,
+						"h": 449
+					},
+					"frame": {
+						"x": 245,
+						"y": 1354,
+						"w": 244,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 226,
+						"y": 221,
+						"w": 244,
+						"h": 449
+					},
+					"frame": {
+						"x": 245,
+						"y": 1354,
+						"w": 244,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 224,
+						"y": 221,
+						"w": 246,
+						"h": 449
+					},
+					"frame": {
+						"x": 491,
+						"y": 1354,
+						"w": 246,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 224,
+						"y": 221,
+						"w": 246,
+						"h": 449
+					},
+					"frame": {
+						"x": 491,
+						"y": 1354,
+						"w": 246,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 223,
+						"y": 221,
+						"w": 249,
+						"h": 449
+					},
+					"frame": {
+						"x": 739,
+						"y": 1354,
+						"w": 249,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 223,
+						"y": 221,
+						"w": 249,
+						"h": 449
+					},
+					"frame": {
+						"x": 739,
+						"y": 1354,
+						"w": 249,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisIdle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 223,
+						"y": 221,
+						"w": 249,
+						"h": 449
+					},
+					"frame": {
+						"x": 990,
+						"y": 1354,
+						"w": 249,
+						"h": 449
+					}
+				},
+				{
+					"filename": "DejahThorisAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 213,
+						"y": 237,
+						"w": 413,
+						"h": 450
+					},
+					"frame": {
+						"x": 1241,
+						"y": 1354,
+						"w": 413,
+						"h": 450
+					}
+				},
+				{
+					"filename": "DejahThorisAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 216,
+						"y": 201,
+						"w": 236,
+						"h": 470
+					},
+					"frame": {
+						"x": 1656,
+						"y": 1354,
+						"w": 236,
+						"h": 470
+					}
+				}
+			]
+		},
+		{
+			"image": "DejahThoris-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 421,
+				"h": 999
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "DejahThorisAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 219,
+						"y": 173,
+						"w": 419,
+						"h": 518
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 419,
+						"h": 518
+					}
+				},
+				{
+					"filename": "DejahThorisKick_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 193,
+						"w": 250,
+						"h": 477
+					},
+					"frame": {
+						"x": 1,
+						"y": 521,
+						"w": 250,
+						"h": 477
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a9e11b2d876cb9fae3e906fae478d8d6:6b8a732e5ee117195fcd17620759db52:7e8c50708e0fd9011c35eec064920bef$"
+	}
+}

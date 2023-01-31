@@ -1,0 +1,934 @@
+{
+	"textures": [
+		{
+			"image": "ElectricMean-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1855,
+				"h": 1608
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ElectricMeanDie_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 553,
+						"w": 472,
+						"h": 131
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 472,
+						"h": 131
+					}
+				},
+				{
+					"filename": "ElectricMeanDie_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 548,
+						"w": 469,
+						"h": 140
+					},
+					"frame": {
+						"x": 475,
+						"y": 1,
+						"w": 469,
+						"h": 140
+					}
+				},
+				{
+					"filename": "ElectricMeanDie_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 465,
+						"w": 455,
+						"h": 190
+					},
+					"frame": {
+						"x": 946,
+						"y": 1,
+						"w": 455,
+						"h": 190
+					}
+				},
+				{
+					"filename": "ElectricMeanDie_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 397,
+						"w": 429,
+						"h": 249
+					},
+					"frame": {
+						"x": 1403,
+						"y": 1,
+						"w": 429,
+						"h": 249
+					}
+				},
+				{
+					"filename": "ElectricMeanDie_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 175,
+						"y": 288,
+						"w": 390,
+						"h": 304
+					},
+					"frame": {
+						"x": 1,
+						"y": 252,
+						"w": 390,
+						"h": 304
+					}
+				},
+				{
+					"filename": "ElectricMeanDie_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 263,
+						"y": 242,
+						"w": 313,
+						"h": 393
+					},
+					"frame": {
+						"x": 393,
+						"y": 252,
+						"w": 313,
+						"h": 393
+					}
+				},
+				{
+					"filename": "ElectricMeanCast_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 235,
+						"w": 346,
+						"h": 435
+					},
+					"frame": {
+						"x": 708,
+						"y": 252,
+						"w": 346,
+						"h": 435
+					}
+				},
+				{
+					"filename": "ElectricMeanCast_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 235,
+						"w": 351,
+						"h": 435
+					},
+					"frame": {
+						"x": 1056,
+						"y": 252,
+						"w": 351,
+						"h": 435
+					}
+				},
+				{
+					"filename": "ElectricMeanCast_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 234,
+						"w": 358,
+						"h": 436
+					},
+					"frame": {
+						"x": 1409,
+						"y": 252,
+						"w": 358,
+						"h": 436
+					}
+				},
+				{
+					"filename": "ElectricMeanCast_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 234,
+						"w": 353,
+						"h": 436
+					},
+					"frame": {
+						"x": 1,
+						"y": 690,
+						"w": 353,
+						"h": 436
+					}
+				},
+				{
+					"filename": "ElectricMeanCast_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 233,
+						"w": 340,
+						"h": 437
+					},
+					"frame": {
+						"x": 356,
+						"y": 690,
+						"w": 340,
+						"h": 437
+					}
+				},
+				{
+					"filename": "ElectricMeanDie_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 312,
+						"y": 212,
+						"w": 211,
+						"h": 438
+					},
+					"frame": {
+						"x": 698,
+						"y": 690,
+						"w": 211,
+						"h": 438
+					}
+				},
+				{
+					"filename": "ElectricMeanPunch2_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 227,
+						"w": 372,
+						"h": 443
+					},
+					"frame": {
+						"x": 911,
+						"y": 690,
+						"w": 372,
+						"h": 443
+					}
+				},
+				{
+					"filename": "ElectricMeanPunch_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 227,
+						"w": 336,
+						"h": 443
+					},
+					"frame": {
+						"x": 1285,
+						"y": 690,
+						"w": 336,
+						"h": 443
+					}
+				},
+				{
+					"filename": "ElectricMeanKick_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 283,
+						"y": 217,
+						"w": 222,
+						"h": 454
+					},
+					"frame": {
+						"x": 1623,
+						"y": 690,
+						"w": 222,
+						"h": 454
+					}
+				},
+				{
+					"filename": "ElectricMeanKick_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 212,
+						"w": 395,
+						"h": 456
+					},
+					"frame": {
+						"x": 1,
+						"y": 1146,
+						"w": 395,
+						"h": 456
+					}
+				},
+				{
+					"filename": "ElectricMeanHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 246,
+						"y": 212,
+						"w": 203,
+						"h": 459
+					},
+					"frame": {
+						"x": 398,
+						"y": 1146,
+						"w": 203,
+						"h": 459
+					}
+				},
+				{
+					"filename": "ElectricMeanHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 214,
+						"w": 248,
+						"h": 461
+					},
+					"frame": {
+						"x": 603,
+						"y": 1146,
+						"w": 248,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 208,
+						"w": 196,
+						"h": 461
+					},
+					"frame": {
+						"x": 853,
+						"y": 1146,
+						"w": 196,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 270,
+						"y": 208,
+						"w": 197,
+						"h": 461
+					},
+					"frame": {
+						"x": 1051,
+						"y": 1146,
+						"w": 197,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 270,
+						"y": 208,
+						"w": 197,
+						"h": 461
+					},
+					"frame": {
+						"x": 1051,
+						"y": 1146,
+						"w": 197,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 269,
+						"y": 208,
+						"w": 198,
+						"h": 461
+					},
+					"frame": {
+						"x": 1250,
+						"y": 1146,
+						"w": 198,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 267,
+						"y": 208,
+						"w": 200,
+						"h": 461
+					},
+					"frame": {
+						"x": 1450,
+						"y": 1146,
+						"w": 200,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 267,
+						"y": 208,
+						"w": 200,
+						"h": 461
+					},
+					"frame": {
+						"x": 1450,
+						"y": 1146,
+						"w": 200,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 265,
+						"y": 208,
+						"w": 202,
+						"h": 461
+					},
+					"frame": {
+						"x": 1652,
+						"y": 1146,
+						"w": 202,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 265,
+						"y": 208,
+						"w": 202,
+						"h": 461
+					},
+					"frame": {
+						"x": 1652,
+						"y": 1146,
+						"w": 202,
+						"h": 461
+					}
+				}
+			]
+		},
+		{
+			"image": "ElectricMean-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 820,
+				"h": 1971
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ElectricMeanIdle_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 269,
+						"y": 208,
+						"w": 198,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 198,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 263,
+						"y": 208,
+						"w": 204,
+						"h": 461
+					},
+					"frame": {
+						"x": 201,
+						"y": 1,
+						"w": 204,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 263,
+						"y": 208,
+						"w": 204,
+						"h": 461
+					},
+					"frame": {
+						"x": 407,
+						"y": 1,
+						"w": 204,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 208,
+						"w": 206,
+						"h": 461
+					},
+					"frame": {
+						"x": 613,
+						"y": 1,
+						"w": 206,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 208,
+						"w": 206,
+						"h": 461
+					},
+					"frame": {
+						"x": 613,
+						"y": 1,
+						"w": 206,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 208,
+						"w": 208,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 464,
+						"w": 208,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 208,
+						"w": 208,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 464,
+						"w": 208,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 208,
+						"w": 210,
+						"h": 461
+					},
+					"frame": {
+						"x": 211,
+						"y": 464,
+						"w": 210,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 208,
+						"w": 210,
+						"h": 461
+					},
+					"frame": {
+						"x": 211,
+						"y": 464,
+						"w": 210,
+						"h": 461
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 256,
+						"y": 207,
+						"w": 211,
+						"h": 462
+					},
+					"frame": {
+						"x": 423,
+						"y": 464,
+						"w": 211,
+						"h": 462
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 256,
+						"y": 207,
+						"w": 211,
+						"h": 462
+					},
+					"frame": {
+						"x": 423,
+						"y": 464,
+						"w": 211,
+						"h": 462
+					}
+				},
+				{
+					"filename": "ElectricMeanIdle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 256,
+						"y": 207,
+						"w": 211,
+						"h": 462
+					},
+					"frame": {
+						"x": 1,
+						"y": 928,
+						"w": 211,
+						"h": 462
+					}
+				},
+				{
+					"filename": "ElectricMeanPunch2_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 202,
+						"w": 231,
+						"h": 470
+					},
+					"frame": {
+						"x": 214,
+						"y": 928,
+						"w": 231,
+						"h": 470
+					}
+				},
+				{
+					"filename": "ElectricMeanPunch_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 202,
+						"w": 232,
+						"h": 470
+					},
+					"frame": {
+						"x": 447,
+						"y": 928,
+						"w": 232,
+						"h": 470
+					}
+				},
+				{
+					"filename": "ElectricMeanCast_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 101,
+						"w": 237,
+						"h": 570
+					},
+					"frame": {
+						"x": 1,
+						"y": 1400,
+						"w": 237,
+						"h": 570
+					}
+				},
+				{
+					"filename": "ElectricMeanKick_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 188,
+						"w": 241,
+						"h": 482
+					},
+					"frame": {
+						"x": 240,
+						"y": 1400,
+						"w": 241,
+						"h": 482
+					}
+				},
+				{
+					"filename": "ElectricMeanCast_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 230,
+						"y": 103,
+						"w": 261,
+						"h": 568
+					},
+					"frame": {
+						"x": 483,
+						"y": 1400,
+						"w": 261,
+						"h": 568
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bd2e5906c91f4fb35584e60b01454b8e:f7669a2c05cd931f70c93a65822343ef:201b52e85c48d3a754ac913f5c5145a9$"
+	}
+}

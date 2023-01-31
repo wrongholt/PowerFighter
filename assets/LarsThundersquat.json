@@ -1,0 +1,892 @@
+{
+	"textures": [
+		{
+			"image": "LarsThundersquat-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2031,
+				"h": 1976
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "LarsThundersquatDie_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 305,
+						"y": 182,
+						"w": 218,
+						"h": 469
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 218,
+						"h": 469
+					}
+				},
+				{
+					"filename": "LarsThundersquatDie_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 255,
+						"y": 211,
+						"w": 322,
+						"h": 430
+					},
+					"frame": {
+						"x": 221,
+						"y": 1,
+						"w": 322,
+						"h": 430
+					}
+				},
+				{
+					"filename": "LarsThundersquatDie_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 257,
+						"w": 419,
+						"h": 344
+					},
+					"frame": {
+						"x": 545,
+						"y": 1,
+						"w": 419,
+						"h": 344
+					}
+				},
+				{
+					"filename": "LarsThundersquatHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 181,
+						"w": 204,
+						"h": 490
+					},
+					"frame": {
+						"x": 966,
+						"y": 1,
+						"w": 204,
+						"h": 490
+					}
+				},
+				{
+					"filename": "LarsThundersquatHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 255,
+						"y": 183,
+						"w": 257,
+						"h": 493
+					},
+					"frame": {
+						"x": 1172,
+						"y": 1,
+						"w": 257,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 258,
+						"y": 177,
+						"w": 215,
+						"h": 492
+					},
+					"frame": {
+						"x": 1431,
+						"y": 1,
+						"w": 215,
+						"h": 492
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 177,
+						"w": 216,
+						"h": 492
+					},
+					"frame": {
+						"x": 1648,
+						"y": 1,
+						"w": 216,
+						"h": 492
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 177,
+						"w": 216,
+						"h": 492
+					},
+					"frame": {
+						"x": 1648,
+						"y": 1,
+						"w": 216,
+						"h": 492
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 256,
+						"y": 177,
+						"w": 217,
+						"h": 492
+					},
+					"frame": {
+						"x": 1,
+						"y": 496,
+						"w": 217,
+						"h": 492
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 255,
+						"y": 177,
+						"w": 218,
+						"h": 492
+					},
+					"frame": {
+						"x": 220,
+						"y": 496,
+						"w": 218,
+						"h": 492
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 255,
+						"y": 177,
+						"w": 218,
+						"h": 492
+					},
+					"frame": {
+						"x": 220,
+						"y": 496,
+						"w": 218,
+						"h": 492
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 176,
+						"w": 219,
+						"h": 493
+					},
+					"frame": {
+						"x": 440,
+						"y": 496,
+						"w": 219,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 176,
+						"w": 219,
+						"h": 493
+					},
+					"frame": {
+						"x": 440,
+						"y": 496,
+						"w": 219,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 176,
+						"w": 221,
+						"h": 493
+					},
+					"frame": {
+						"x": 661,
+						"y": 496,
+						"w": 221,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 176,
+						"w": 222,
+						"h": 493
+					},
+					"frame": {
+						"x": 884,
+						"y": 496,
+						"w": 222,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 176,
+						"w": 222,
+						"h": 493
+					},
+					"frame": {
+						"x": 884,
+						"y": 496,
+						"w": 222,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 176,
+						"w": 224,
+						"h": 493
+					},
+					"frame": {
+						"x": 1108,
+						"y": 496,
+						"w": 224,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 249,
+						"y": 176,
+						"w": 224,
+						"h": 493
+					},
+					"frame": {
+						"x": 1108,
+						"y": 496,
+						"w": 224,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 176,
+						"w": 225,
+						"h": 493
+					},
+					"frame": {
+						"x": 1334,
+						"y": 496,
+						"w": 225,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 176,
+						"w": 225,
+						"h": 493
+					},
+					"frame": {
+						"x": 1334,
+						"y": 496,
+						"w": 225,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 247,
+						"y": 176,
+						"w": 226,
+						"h": 493
+					},
+					"frame": {
+						"x": 1561,
+						"y": 496,
+						"w": 226,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 247,
+						"y": 176,
+						"w": 226,
+						"h": 493
+					},
+					"frame": {
+						"x": 1561,
+						"y": 496,
+						"w": 226,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 247,
+						"y": 176,
+						"w": 226,
+						"h": 493
+					},
+					"frame": {
+						"x": 1789,
+						"y": 496,
+						"w": 226,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 176,
+						"w": 221,
+						"h": 493
+					},
+					"frame": {
+						"x": 1,
+						"y": 991,
+						"w": 221,
+						"h": 493
+					}
+				},
+				{
+					"filename": "LarsThundersquatIdle_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 256,
+						"y": 177,
+						"w": 217,
+						"h": 492
+					},
+					"frame": {
+						"x": 224,
+						"y": 991,
+						"w": 217,
+						"h": 492
+					}
+				},
+				{
+					"filename": "LarsThundersquatKick2_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 242,
+						"y": 194,
+						"w": 256,
+						"h": 476
+					},
+					"frame": {
+						"x": 443,
+						"y": 991,
+						"w": 256,
+						"h": 476
+					}
+				},
+				{
+					"filename": "LarsThundersquatKick2_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 270,
+						"y": 186,
+						"w": 235,
+						"h": 485
+					},
+					"frame": {
+						"x": 701,
+						"y": 991,
+						"w": 235,
+						"h": 485
+					}
+				},
+				{
+					"filename": "LarsThundersquatKick2_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 237,
+						"y": 181,
+						"w": 407,
+						"h": 487
+					},
+					"frame": {
+						"x": 938,
+						"y": 991,
+						"w": 407,
+						"h": 487
+					}
+				},
+				{
+					"filename": "LarsThundersquatKick_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 193,
+						"w": 231,
+						"h": 472
+					},
+					"frame": {
+						"x": 1347,
+						"y": 991,
+						"w": 231,
+						"h": 472
+					}
+				},
+				{
+					"filename": "LarsThundersquatKick_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 281,
+						"y": 186,
+						"w": 198,
+						"h": 485
+					},
+					"frame": {
+						"x": 1580,
+						"y": 991,
+						"w": 198,
+						"h": 485
+					}
+				},
+				{
+					"filename": "LarsThundersquatKick_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 180,
+						"w": 364,
+						"h": 484
+					},
+					"frame": {
+						"x": 1,
+						"y": 1486,
+						"w": 364,
+						"h": 484
+					}
+				},
+				{
+					"filename": "LarsThundersquatPunch2_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 194,
+						"w": 241,
+						"h": 478
+					},
+					"frame": {
+						"x": 367,
+						"y": 1486,
+						"w": 241,
+						"h": 478
+					}
+				},
+				{
+					"filename": "LarsThundersquatPunch2_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 196,
+						"w": 305,
+						"h": 475
+					},
+					"frame": {
+						"x": 610,
+						"y": 1486,
+						"w": 305,
+						"h": 475
+					}
+				},
+				{
+					"filename": "LarsThundersquatPunch3_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 194,
+						"w": 237,
+						"h": 478
+					},
+					"frame": {
+						"x": 917,
+						"y": 1486,
+						"w": 237,
+						"h": 478
+					}
+				},
+				{
+					"filename": "LarsThundersquatPunch3_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 258,
+						"y": 183,
+						"w": 247,
+						"h": 489
+					},
+					"frame": {
+						"x": 1156,
+						"y": 1486,
+						"w": 247,
+						"h": 489
+					}
+				},
+				{
+					"filename": "LarsThundersquatPunch_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 194,
+						"w": 253,
+						"h": 478
+					},
+					"frame": {
+						"x": 1405,
+						"y": 1486,
+						"w": 253,
+						"h": 478
+					}
+				},
+				{
+					"filename": "LarsThundersquatPunch_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 196,
+						"w": 370,
+						"h": 475
+					},
+					"frame": {
+						"x": 1660,
+						"y": 1486,
+						"w": 370,
+						"h": 475
+					}
+				}
+			]
+		},
+		{
+			"image": "LarsThundersquat-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 505,
+				"h": 800
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "LarsThundersquatDie_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 375,
+						"w": 460,
+						"h": 282
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 460,
+						"h": 282
+					}
+				},
+				{
+					"filename": "LarsThundersquatDie_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 465,
+						"w": 486,
+						"h": 201
+					},
+					"frame": {
+						"x": 1,
+						"y": 285,
+						"w": 486,
+						"h": 201
+					}
+				},
+				{
+					"filename": "LarsThundersquatDie_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 544,
+						"w": 499,
+						"h": 161
+					},
+					"frame": {
+						"x": 1,
+						"y": 488,
+						"w": 499,
+						"h": 161
+					}
+				},
+				{
+					"filename": "LarsThundersquatDie_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 551,
+						"w": 503,
+						"h": 148
+					},
+					"frame": {
+						"x": 1,
+						"y": 651,
+						"w": 503,
+						"h": 148
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8762d5febe2309f02ade04c8ba5907bf:c29e08bba8afdaa4ddf06c44595eef81:f44a901802f6cd3ae088bb9e58d4b861$"
+	}
+}

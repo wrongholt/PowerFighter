@@ -1,0 +1,2079 @@
+{
+	"textures": [
+		{
+			"image": "JohnCarter-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1870,
+				"h": 1895
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "JohnCarter.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 264,
+						"y": 197,
+						"w": 207,
+						"h": 471
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 207,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 264,
+						"y": 197,
+						"w": 207,
+						"h": 471
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 207,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 313,
+						"h": 471
+					},
+					"frame": {
+						"x": 210,
+						"y": 1,
+						"w": 313,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 313,
+						"h": 471
+					},
+					"frame": {
+						"x": 525,
+						"y": 1,
+						"w": 313,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 313,
+						"h": 471
+					},
+					"frame": {
+						"x": 525,
+						"y": 1,
+						"w": 313,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 313,
+						"h": 471
+					},
+					"frame": {
+						"x": 840,
+						"y": 1,
+						"w": 313,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 313,
+						"h": 471
+					},
+					"frame": {
+						"x": 840,
+						"y": 1,
+						"w": 313,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 313,
+						"h": 471
+					},
+					"frame": {
+						"x": 1155,
+						"y": 1,
+						"w": 313,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 313,
+						"h": 471
+					},
+					"frame": {
+						"x": 1155,
+						"y": 1,
+						"w": 313,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 313,
+						"h": 471
+					},
+					"frame": {
+						"x": 1470,
+						"y": 1,
+						"w": 313,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 313,
+						"h": 471
+					},
+					"frame": {
+						"x": 1470,
+						"y": 1,
+						"w": 313,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 312,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 474,
+						"w": 312,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 312,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 474,
+						"w": 312,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 312,
+						"h": 472
+					},
+					"frame": {
+						"x": 315,
+						"y": 474,
+						"w": 312,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 312,
+						"h": 472
+					},
+					"frame": {
+						"x": 315,
+						"y": 474,
+						"w": 312,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 313,
+						"h": 472
+					},
+					"frame": {
+						"x": 629,
+						"y": 474,
+						"w": 313,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 944,
+						"y": 474,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 1318,
+						"y": 474,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 1318,
+						"y": 474,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 1,
+						"y": 948,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 1,
+						"y": 948,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 375,
+						"y": 948,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 375,
+						"y": 948,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 749,
+						"y": 948,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 749,
+						"y": 948,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 1123,
+						"y": 948,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 1497,
+						"y": 948,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 1497,
+						"y": 948,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 1422,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 1422,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 375,
+						"y": 1422,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 375,
+						"y": 1422,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 749,
+						"y": 1422,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 749,
+						"y": 1422,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 1123,
+						"y": 1422,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim2_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 1497,
+						"y": 1422,
+						"w": 372,
+						"h": 472
+					}
+				}
+			]
+		},
+		{
+			"image": "JohnCarter-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1961,
+				"h": 1804
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "JohnCarterDie_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 549,
+						"w": 483,
+						"h": 137
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 483,
+						"h": 137
+					}
+				},
+				{
+					"filename": "JohnCarterDie_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 540,
+						"w": 479,
+						"h": 151
+					},
+					"frame": {
+						"x": 486,
+						"y": 1,
+						"w": 479,
+						"h": 151
+					}
+				},
+				{
+					"filename": "JohnCarterDie_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 100,
+						"y": 458,
+						"w": 466,
+						"h": 199
+					},
+					"frame": {
+						"x": 967,
+						"y": 1,
+						"w": 466,
+						"h": 199
+					}
+				},
+				{
+					"filename": "JohnCarterDie_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 379,
+						"w": 441,
+						"h": 268
+					},
+					"frame": {
+						"x": 1435,
+						"y": 1,
+						"w": 441,
+						"h": 268
+					}
+				},
+				{
+					"filename": "JohnCarterDie_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 168,
+						"y": 232,
+						"w": 401,
+						"h": 360
+					},
+					"frame": {
+						"x": 1,
+						"y": 271,
+						"w": 401,
+						"h": 360
+					}
+				},
+				{
+					"filename": "JohnCarterDie_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 231,
+						"w": 339,
+						"h": 406
+					},
+					"frame": {
+						"x": 404,
+						"y": 271,
+						"w": 339,
+						"h": 406
+					}
+				},
+				{
+					"filename": "JohnCarterAttack_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 243,
+						"y": 229,
+						"w": 342,
+						"h": 441
+					},
+					"frame": {
+						"x": 745,
+						"y": 271,
+						"w": 342,
+						"h": 441
+					}
+				},
+				{
+					"filename": "JohnCarterDie_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 308,
+						"y": 201,
+						"w": 237,
+						"h": 450
+					},
+					"frame": {
+						"x": 1089,
+						"y": 271,
+						"w": 237,
+						"h": 450
+					}
+				},
+				{
+					"filename": "JohnCarterAttack_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 244,
+						"y": 219,
+						"w": 430,
+						"h": 468
+					},
+					"frame": {
+						"x": 1328,
+						"y": 271,
+						"w": 430,
+						"h": 468
+					}
+				},
+				{
+					"filename": "JohnCarterHit_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 201,
+						"w": 200,
+						"h": 470
+					},
+					"frame": {
+						"x": 1760,
+						"y": 271,
+						"w": 200,
+						"h": 470
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 264,
+						"y": 197,
+						"w": 207,
+						"h": 471
+					},
+					"frame": {
+						"x": 1,
+						"y": 743,
+						"w": 207,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 264,
+						"y": 197,
+						"w": 207,
+						"h": 471
+					},
+					"frame": {
+						"x": 1,
+						"y": 743,
+						"w": 207,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 263,
+						"y": 197,
+						"w": 208,
+						"h": 471
+					},
+					"frame": {
+						"x": 210,
+						"y": 743,
+						"w": 208,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 197,
+						"w": 209,
+						"h": 471
+					},
+					"frame": {
+						"x": 420,
+						"y": 743,
+						"w": 209,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 197,
+						"w": 209,
+						"h": 471
+					},
+					"frame": {
+						"x": 420,
+						"y": 743,
+						"w": 209,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 197,
+						"w": 210,
+						"h": 471
+					},
+					"frame": {
+						"x": 631,
+						"y": 743,
+						"w": 210,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 197,
+						"w": 210,
+						"h": 471
+					},
+					"frame": {
+						"x": 631,
+						"y": 743,
+						"w": 210,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 197,
+						"w": 213,
+						"h": 471
+					},
+					"frame": {
+						"x": 843,
+						"y": 743,
+						"w": 213,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 197,
+						"w": 217,
+						"h": 471
+					},
+					"frame": {
+						"x": 1058,
+						"y": 743,
+						"w": 217,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 197,
+						"w": 217,
+						"h": 471
+					},
+					"frame": {
+						"x": 1058,
+						"y": 743,
+						"w": 217,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterAim_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 312,
+						"h": 472
+					},
+					"frame": {
+						"x": 1277,
+						"y": 743,
+						"w": 312,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 312,
+						"h": 472
+					},
+					"frame": {
+						"x": 1277,
+						"y": 743,
+						"w": 312,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 312,
+						"h": 472
+					},
+					"frame": {
+						"x": 1591,
+						"y": 743,
+						"w": 312,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 312,
+						"h": 472
+					},
+					"frame": {
+						"x": 1591,
+						"y": 743,
+						"w": 312,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 312,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 1217,
+						"w": 312,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterAim_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 313,
+						"h": 472
+					},
+					"frame": {
+						"x": 315,
+						"y": 1217,
+						"w": 313,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 256,
+						"y": 196,
+						"w": 219,
+						"h": 472
+					},
+					"frame": {
+						"x": 630,
+						"y": 1217,
+						"w": 219,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 256,
+						"y": 196,
+						"w": 219,
+						"h": 472
+					},
+					"frame": {
+						"x": 630,
+						"y": 1217,
+						"w": 219,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterHit_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 258,
+						"y": 203,
+						"w": 303,
+						"h": 473
+					},
+					"frame": {
+						"x": 851,
+						"y": 1217,
+						"w": 303,
+						"h": 473
+					}
+				},
+				{
+					"filename": "JohnCarterAttack_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 148,
+						"w": 508,
+						"h": 543
+					},
+					"frame": {
+						"x": 1156,
+						"y": 1217,
+						"w": 508,
+						"h": 543
+					}
+				},
+				{
+					"filename": "JohnCarterAttack_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 82,
+						"w": 184,
+						"h": 586
+					},
+					"frame": {
+						"x": 1666,
+						"y": 1217,
+						"w": 184,
+						"h": 586
+					}
+				}
+			]
+		},
+		{
+			"image": "JohnCarter-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1890,
+				"h": 1903
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "JohnCarterKick_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 200,
+						"w": 364,
+						"h": 464
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 364,
+						"h": 464
+					}
+				},
+				{
+					"filename": "JohnCarterKick_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 288,
+						"y": 206,
+						"w": 200,
+						"h": 465
+					},
+					"frame": {
+						"x": 367,
+						"y": 1,
+						"w": 200,
+						"h": 465
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 197,
+						"w": 213,
+						"h": 471
+					},
+					"frame": {
+						"x": 569,
+						"y": 1,
+						"w": 213,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 263,
+						"y": 197,
+						"w": 208,
+						"h": 471
+					},
+					"frame": {
+						"x": 784,
+						"y": 1,
+						"w": 208,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 448,
+						"h": 471
+					},
+					"frame": {
+						"x": 994,
+						"y": 1,
+						"w": 448,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 445,
+						"h": 471
+					},
+					"frame": {
+						"x": 1444,
+						"y": 1,
+						"w": 445,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 368,
+						"h": 471
+					},
+					"frame": {
+						"x": 1,
+						"y": 474,
+						"w": 368,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 371,
+						"y": 474,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 371,
+						"y": 474,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 745,
+						"y": 474,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 745,
+						"y": 474,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 1119,
+						"y": 474,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 197,
+						"w": 372,
+						"h": 471
+					},
+					"frame": {
+						"x": 1493,
+						"y": 474,
+						"w": 372,
+						"h": 471
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 255,
+						"y": 196,
+						"w": 222,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 947,
+						"w": 222,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 255,
+						"y": 196,
+						"w": 222,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 947,
+						"w": 222,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 196,
+						"w": 224,
+						"h": 472
+					},
+					"frame": {
+						"x": 225,
+						"y": 947,
+						"w": 224,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 196,
+						"w": 224,
+						"h": 472
+					},
+					"frame": {
+						"x": 225,
+						"y": 947,
+						"w": 224,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterIdle_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 196,
+						"w": 224,
+						"h": 472
+					},
+					"frame": {
+						"x": 451,
+						"y": 947,
+						"w": 224,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 677,
+						"y": 947,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 372,
+						"h": 472
+					},
+					"frame": {
+						"x": 677,
+						"y": 947,
+						"w": 372,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 371,
+						"h": 472
+					},
+					"frame": {
+						"x": 1051,
+						"y": 947,
+						"w": 371,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 371,
+						"h": 472
+					},
+					"frame": {
+						"x": 1051,
+						"y": 947,
+						"w": 371,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 371,
+						"h": 472
+					},
+					"frame": {
+						"x": 1424,
+						"y": 947,
+						"w": 371,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 371,
+						"h": 472
+					},
+					"frame": {
+						"x": 1424,
+						"y": 947,
+						"w": 371,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 371,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 1421,
+						"w": 371,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 371,
+						"h": 472
+					},
+					"frame": {
+						"x": 1,
+						"y": 1421,
+						"w": 371,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 371,
+						"h": 472
+					},
+					"frame": {
+						"x": 374,
+						"y": 1421,
+						"w": 371,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 371,
+						"h": 472
+					},
+					"frame": {
+						"x": 374,
+						"y": 1421,
+						"w": 371,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterShoot_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 196,
+						"w": 371,
+						"h": 472
+					},
+					"frame": {
+						"x": 747,
+						"y": 1421,
+						"w": 371,
+						"h": 472
+					}
+				},
+				{
+					"filename": "JohnCarterKick_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 184,
+						"w": 280,
+						"h": 481
+					},
+					"frame": {
+						"x": 1120,
+						"y": 1421,
+						"w": 280,
+						"h": 481
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a141c55b2a8491bced65e1c78024d5ba:b169e09fbfbc30a7d83d766b05d9b34e:080013be4de9d653f654ecbc36c584c4$"
+	}
+}
